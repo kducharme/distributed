@@ -1,6 +1,6 @@
 <template>
   <div class="content">
-    <h1>I'm Kyle, a UX designer & developer that focuses on <span>b2b software, startups, and remote work.</span> I've helped ship products used by more than 30,000 businesses, and I'm currently working at TaxJar => a fully remote company building software that makes eCommerce easier for merchants and developers.</h1>
+    <h1>I'm Kyle, a UX designer & developer that focuses on <span>b2b software, startups, and remote work.</span> I've helped ship products used by more than 75,000 business users, and I'm currently working at TaxJar => a fully remote company building software that makes eCommerce easier for merchants and developers.</h1>
     <a href="https://dribbble.com/kducharme" target="blank">View my portfolio</a>
   </div>
 </template>
